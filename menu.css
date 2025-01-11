@@ -18,7 +18,7 @@ h1{
     animation-name: krocodile;
     animation-duration: 1s;
     margin: 10px;
-    font-size: 75px;
+    font-size: 70px;
     font-weight: 900;
 }
 h3{
@@ -35,12 +35,12 @@ button{
     background-color: #E76F51;
     border-radius: 20px;
     border: 0;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: Montserrat;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 500;
     color: rgb(255, 255, 255);
     margin: 20px 0px;
